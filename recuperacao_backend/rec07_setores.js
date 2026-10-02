@@ -19,7 +19,7 @@ for (let i = 0; i < 6; i++) {
     setores.push(setor);
 }
 
-console.log("\n=== SETORES CADASTRADOS ===");
+console.log("\n== SETORES CADASTRADOS ==");
 
 for (let i = 0; i < setores.length; i++) {
     console.log(`${i + 1} - ${setores[i]}`);
